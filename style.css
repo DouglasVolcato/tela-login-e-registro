@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{
+    font-size: 2vw;
+}
+html, body{
+    height: 90vh;
+    width: 90vw;
+    background-color: black;
+    color: white;
+    padding: 2vw;
+}
+h1{
+    margin: 1vw;
+}
+section{
+    margin: 2vw;
+    font-size: 1.5vw;
+}
+input,button{
+    font-size: 1vw;
+}
+form{
+    margin: 1vw;
+}
+button{
+    font-weight: bold;
+    padding: 0.2vw;
+    margin: 1vw;
+}
+button:hover{
+    background-color:rgb(0, 252, 113);
+}
